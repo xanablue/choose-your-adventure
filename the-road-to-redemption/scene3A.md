@@ -1,16 +1,14 @@
 
-# 🏜️ Scene 3A: The Canyon Hermit
+# 🏜️ Scene 3A: An endless Journey
 
-You sneak away under the twin suns and head into the rocky canyonlands. After hours of walking, a hooded figure steps from the shadows.
+After riding your horse for a while you see a small shadow further up.
 
-> “You’ve come a long way, traveler… I am Old Ken.”
+A weird tall castle made out of stone bricks appears in front of you, it's unlike anything you’ve seen before. 
 
-He listens to your story, then shows you a hidden device — a glowing blade of energy once wielded by defenders of peace.
-
-> “This was your father's. The Dominion hunted our kind. But the spark lives on… in you.”
+The dust starts the set and the sun shines in with birds chirping around you.
 
 What now?
 
-- ⚔️ [Train with Old Ken and learn the ways of the spark](./scene4A.md)
+- 🚪 [Approach the entrance, maybe you can hide](./scene4A.md)
 
-- 🏃 [This is too much — run back home before things get worse](./scene4B.md)
+- 🐎 [Go around it, you’re on the run](./scene4C.md)
