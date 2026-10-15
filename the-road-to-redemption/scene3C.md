@@ -1,12 +1,12 @@
 
-# 🚔 Scene 3C: The Authorities
+# 🏘 Scene 3C: The Next Town
 
-You report the message to the local enforcers. They thank you… then seize the droid. You overhear one mention a bounty from the Dominion.
+You arrive at the next town over.
 
-Later that night, your homestead is stormed by black-armored troopers. Your home is in ruins. The message — and your family — are gone.
+However, the ride took the entire night.
+ 
+Yet, you still feel refreshed for some reason like the universe shifted.
 
-You’ve made a terrible mistake.
+- 🐎 [ Keep moving, something strange is going on.](./scene4C.md)
 
-- 🔥 [Swear vengeance and go into hiding](./scene4F.md)
-
-- 💼 [Try to join the Dominion as a cadet to learn their secrets](./scene4G.md)
+- 🍳 [Get some food, you know the saloon offers breakfast](./scene4B.md)
