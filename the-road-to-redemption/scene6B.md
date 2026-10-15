@@ -1,12 +1,18 @@
 
-# 🛰️ Scene 6B: The Rescue Mission
+# 🔒 Scene 6B: Prisoner
 
-Disguised in stolen armor, you and your allies infiltrate the Dominion battle station.
+The guards knock you out. 
 
-You find the cloaked woman in a high-security cell, defiant and unbroken. Together, you spring her free — but now alarms are blaring.
+You awake in a prison cell in an unfamiliar structure like you’ve never seen before. Cobblestone surrounds you and the environment feels wet and moist. 
 
-> “I knew someone would come,” she says. “Now let’s get out alive.”
+A guard walks towards you and behind him is a King. 
 
-- 🔫 [Shoot your way to the hangar bay](./scene7C.md)
+He shows you that same bounty poster you were looking at early. Your face is on it.
 
-- 🐒 [Let the hairy co-pilot cause a distraction while you sneak out](./scene7D.md)
+ He offers a proposal, you do a mission to rescue a Princess or he takes your bounty.
+
+> “What do you do?”
+
+- ✅ [Take the offer?](./scene7A.md)
+
+- ❎ [Deny the offer?](./scene7B.md)
