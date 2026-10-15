@@ -1,12 +1,12 @@
 
-# 🚀 Scene 5A: To the Rebellion
+# 🏰 Scene 5A: The Kingdom
 
-You and Old Ken find a rogue pilot and his hairy co-pilot at a grimy spaceport. They agree to fly you off-world — for a price.
+The guards bring you inside their kingdom.
 
-As Dominion forces close in, you escape in their modified freighter, barely dodging laser fire.
+ A suffocating crowd surrounds you. 
+ 
+ Eyes stare like they’re judging your clothes. 
 
-> “Hang on, kid!” the pilot shouts. “Next stop: rebel command.”
+- 💂 [Continue Following the Guards](./scene6A.md)
 
-- 🌌 [Head straight to the rebellion with the droid and its data](./scene6A.md)
-
-- 🛰️ [Intercept a Dominion transmission — the cloaked woman is being held on the battle station!](./scene6B.md)
+- 🦶 [Make it a run for it, this doesn’t seem your style](./scene6B.md)
