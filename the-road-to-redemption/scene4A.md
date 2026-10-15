@@ -1,14 +1,14 @@
 
-# ⚔️ Scene 4A: The Way of the Spark
+# 🚪 Scene 4A: You approach the entrance
 
-Old Ken begins your training. You learn to feel the energy that flows through all living things — the Spark.
+A huge metal gate made with bars you’d see in a prison.
 
-> “The Spark is what gives us strength. A connection… a guide.”
+> A slow rumble happens
+ 
+the gates start to lift up.
 
-He also tells you of the Dominion’s planet-killing battle station and the rebel fighters trying to stop it.
+As you can tell, the guards approach you
 
-Soon, a distress call arrives: the cloaked woman has been captured. The Dominion is headed for her homeworld next.
+- 🗣 [Confront, maybe you can join their kingdom](./scene5A.md)
 
-- 🚀 [Agree to help Old Ken reach the rebels](./scene5A.md)
-
-- 🧭 [Ask to complete your training first — you’re not ready yet](./scene5B.md)
+- 🦶 [Run away! They clearly see you as a threat](./scene5C.md)
