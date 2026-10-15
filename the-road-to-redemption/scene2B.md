@@ -1,10 +1,12 @@
 
-# 🤖 Scene 2B: Glitch? Or Something More?
+# 🙈 Scene 2B: Tonight’s Plans
 
-You brush it off. Probably just a corrupted message from some old battle. Still, something about it lingers in your mind.
+You brush the poster off, must not be anything serious. 
 
-That night, you hear strange sounds outside. Lights in the sky. Maybe it wasn’t just a glitch…
+After a night at the saloon you feel drowsy, you need to figure out where you are staying for the night.
 
-- 🌠 [Investigate the lights in the sky](./scene3D.md)
+Where do you go for the night?
 
-- 🛏️ [Stay inside — no good comes from chasing trouble](./scene3E.md)
+- 💤 [Find a hotel to rest](./scene3B.md)
+
+- 🐎 [Ride to the next town over.](./scene3C.md)
