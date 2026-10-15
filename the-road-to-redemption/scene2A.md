@@ -1,14 +1,14 @@
 
-# 📡 Scene 2A: The Hidden Message
+# 🔍 Scene 2A: Bounty Found
 
-You tinker with the droid and unlock the full message. A cloaked woman pleads for help from someone named *Old Ken Benobi*, who supposedly lives nearby in the canyons.
+You inspect the bounty poster closer and a recognizable face looks back at you. 
 
-> "This must be the old hermit people whisper about," you think to yourself.
+That familiar smile, eyes and nose, you know it from somewhere…
+
+> It's you...
 
 What now?
 
-- 🏜️ [Sneak out to find the hermit yourself](./scene3A.md)
+- 🏜️ [Run and Hide](./scene3A.md)
 
-- 🤝 [Wait for nightfall and ask a friend to come with you](./scene3B.md)
-
-- 🚔 [Report this to the local authorities](./scene3C.md)
+- 🤫 [Stay hidden at a hotel](./scene3B.md)
