@@ -1,10 +1,10 @@
 
-# 📊 Scene 7B: The Briefing
+# ❎ Scene 7B: Refuse
 
-While others attempt the rescue, you stay behind. Rebel engineers analyze the battle station schematics.
+You consider the King’s offer thoroughly. You do not believe that he will spare your life even with the safe return of his daughter, and reluctantly decide that escaping is your best course of action. 
 
-There’s a narrow exhaust port — a perfect hit there could trigger a chain reaction and destroy the entire station.
+Alarming his guards, you bolt towards the window and jump out, where thankfully, there is a vine which you use to slide safely to the ground. You clumsily untie your horse and hop on, taking off as fast as possible.
 
-It’ll take precise flying… and faith in the Spark.
+- 🧭 [Head North.](./scene8A.md)
 
-- 🎯 [Volunteer for the assault](./scene8B.md)
+- 🧭 [Head East.](./scene8B.md)

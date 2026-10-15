@@ -1,10 +1,10 @@
 
-# 👸 Scene 7A: The Rescue
+# ✅ Scene 7A: Accept
 
-You blast through Dominion patrols and reach the cloaked woman’s cell. She’s as sharp-tongued as she is brave.
+You consider the King’s offer thoroughly. Though you did not venture out to complete errands for a King, you conclude that doing his dirty work is the best way to get out alive. 
 
-> “Took you long enough. Let’s go blow something up.”
+You accept the offer, and the King loans you a horse and sword of highest quality. He hands you a map to an abandoned fort on the bad side of the country. You tie up your horse at the King’s stable and set forth, praying for a safe return.
 
-You escape through trash chutes, narrow corridors, and laser fire — until you reach the ship.
+- 💰 [Gather resources and loot on your way.](./scene8B.md)
 
-- 🚀 [Return to the rebels with the plans and the princess](./scene8A.md)
+- 🏇 [Charge straight to the fort.](./scene8A.md)
