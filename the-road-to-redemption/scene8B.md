@@ -1,10 +1,12 @@
 
-# 🎯 Scene 8B: Call to Action
+# 💰 Scene 8B: Long Ride
 
-You’re chosen to lead the final assault. The cloaked woman watches from the command tower.
+You guide your horse to the east, travelling at a brisk pace. You and your horse wander for what must have been tens of miles, narrowly avoiding combat as you pick up old gear and food left by previous wanderers along your way.
 
-> “May the Spark be with you.”
+After some hours, you spot a dingy fort to the East. Yanking the reins, you direct your horse near the back of the fort. Once you arrive, you notice a rotting wood door. You break the door in with brute strength and enter the fort.
 
-You climb into your starfighter, heart pounding, as the fleet launches toward the looming metal moon.
+- 🚶 [Head up a nearby staircase.](./scene9A.md)
 
-- 🚀 [Begin the final run](./scene9A.md)
+- 💭 [Examine your surroundings.](./scene9B.md)
+
+- 🏛️ [Head to the front of the fort.](./scene9C.md)

@@ -1,10 +1,10 @@
 
-# 🌠 Scene 8A: The Hidden Weakness
+# 🏇 Scene 8A: Ambushed
 
-The rebels analyze the plans from the droid. The weakness is real: a small exhaust port, no larger than a womp rat.
+You ride your horse at the speed of light heading north. Up ahead, you spot a derelict, tattered fort riddled with outlaws, guarding their homestead from some hundred yards away from the entrance. They spot you and battle ensues. 
 
-A single fighter, using the Spark to guide their aim, could end the war before it begins.
+Though you are outnumbered, you make it out alive yet gravely wounded. The entrance to the fort awaits your arrival.
 
-> “We have one shot. Who’s flying lead?”
+- 🏛️ [Make your way to the back of the fort.](./scene9B.md)
 
-- 🛩️ [Join the assault on the battle station](./scene9A.md)
+- 💭 [Examine your surroundings.](./scene9C.md)
