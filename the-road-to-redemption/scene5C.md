@@ -1,12 +1,10 @@
 
-# 🛩️ Scene 5C: Escape the Planet
+# 🤐 Scene 5C: Kidnapped
 
-You steal a speeder and race toward the spaceport. Dominion patrols block every main route, but with luck — and help from a rebel contact — you reach an old freighter and blast off.
+As you continue riding, a loud bang comes forward and it deafens your right ear.
 
-The pilot, a charming rogue, raises an eyebrow.
+ You look behind you as your horse falls. 
+ 
+ You hit the ground and the guards carrying a rifle aim it at you.
 
-> “You’ve stirred up a lot of trouble. Got any plans?”
-
-- 📡 [Share the droid’s message and warn the rebellion](./scene6A.md)
-
-- 👸 [Ask for help rescuing the cloaked woman from the battle station](./scene6B.md)
+- 👐 [Put your hands up, you have no choice](./scene6B.md)
