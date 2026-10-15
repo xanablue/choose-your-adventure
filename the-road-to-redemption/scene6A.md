@@ -1,12 +1,16 @@
 
-# 🌌 Scene 6A: Rebel Command
+# 👑 Scene 6A: The King
 
-You deliver the message to the rebel leaders. The stolen plans reveal the terrifying truth: the Dominion’s battle station is real — and nearly invincible.
+You approach two long doors, it takes about two guards to open the door. 
 
-Buried in the schematics is a weakness… but before the rebels can act, word arrives:
+As you enter, a long narrow hallway faces you, with guards on the sides and a King sitting at the end. 
 
-> “The cloaked woman is aboard the station — and it’s heading to her homeworld.”
+He shows you that same bounty poster you were looking at early. Your face is on it. 
 
-- 🛰️ [Join a mission to rescue her and buy time](./scene7A.md)
+He offers a proposal, you do a mission to rescue a Princess or he takes your bounty.
 
-- ✈️ [Stay with the rebels and help plan the final assault](./scene7B.md)
+> “What do you do?”
+
+- ✅ [Take the offer?](./scene7A.md)
+
+- ❎ [Deny the offer?](./scene7B.md)
