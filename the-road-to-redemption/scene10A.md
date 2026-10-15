@@ -12,4 +12,3 @@ How long will you wait for your own rescue? Will you ever see the light of day a
 <br><br> 
 ## Bad End: Captured
 - ↩️ [Restart your adventure?](./_start-here.md)
-

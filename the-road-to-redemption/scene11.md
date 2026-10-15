@@ -14,5 +14,3 @@ You think over her suggestion and come to a decision.
 - 🌆 [Accept and head into town.](./scene12B.md)
 
 - 💵 [Deny and go get your reward.](./scene12C.md)
-
-

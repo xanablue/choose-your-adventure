@@ -12,4 +12,3 @@ What do you do?
 - 🍳 [Get some food, you know the saloon offers breakfast.](./scene4B.md)
 
 - 🐎 [Head west on your horse to the next town.](./scene4C.md)
-
