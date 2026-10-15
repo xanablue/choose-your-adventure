@@ -1,12 +1,12 @@
 
-# 💥 Scene 4C: Fight the Scavengers
+# 💥 Scene 4C: Trouble
 
-You draw a makeshift blaster and take a wild shot. One scavenger goes down, but the rest close in.
+As you ride your horse.
 
-Just as you're about to be overwhelmed — a burst of light! A glowing energy blade cuts through the air.
+A loud clanking noise starts to trail behind you. 
+ 
+You notice a strange group following. From head to toe, they're covered in the old metal armor you used to hear about as a kid.
 
-Old Ken emerges from the rocks and drives the scavengers away.
+- 🦶 [Keep running, you can out run them](./scene5C.md)
 
-> “Not bad,” he smirks. “But next time, try calling for help first.”
-
-- ⚔️ [Train with Old Ken](./scene4A.md)
+- 😵 [Give up and let them take you!](./scene5A.md)
