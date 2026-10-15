@@ -1,14 +1,18 @@
 
-# Space Battles - Episode IV: A New Spark
+# 🐴 The Road to Redemption
 
-## 🎬 Opening Crawl
+## A simple bounty
 
-### EPISODE IV: A NEW SPARK
+>Life in the Old West is never easy.
 
-It is a time of rebellion. Scattered freedom fighters wage a desperate war against a tyrannical Galactic Dominion that rules the stars with an iron grip.
+>Sand stretches as far as the eye can see, and hunting outlaws for bounty pay is one of the only ways to get by. 
 
-In a daring strike, the rebels have acquired secret plans to the Dominion’s ultimate weapon — a moon-sized battle station with the power to destroy entire planets.
+>Most people get comfortable into this harsh life and don't better themselves.
 
-Pursued by Dominion warships, a lone diplomatic cruiser races home, carrying hope for the galaxy… and destiny for a farm boy on a forgotten desert world.
+>It's not just about making a choice, but making the right one to change things for the better.
 
-- 🚀 [Begin your journey](./scene1.md)
+You think to yourself as you finish your 4th shot of whiskey.
+
+Late in the night you decide to get up.
+
+- 🐎 [Begin your journey](./scene1.md)
