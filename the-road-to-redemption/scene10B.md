@@ -7,5 +7,5 @@ You dash towards the outlaws’ leader, who fires at you and narrowly misses. Gr
 
 Taking the princess’s hand, you hold the gun out in front of you as you lead her back down the staircase. The cronies drop their weapons at the sight of the gun, making an easy escape for you and the young lady.
 
-- 🏇 [Rush to your horse!](./scene11A.md)
+- 🏇 [Rush to your horse!](./scene11.md)
 

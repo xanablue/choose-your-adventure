@@ -11,5 +11,5 @@ You must waste no time as he curses to himself. Heading for the prison cell, you
 
 The staircase becomes full with cronies. Taking advantage of your height, you use your sword to push the enemies back down the stairs, who topple each other down onto the ground. Sneaking past the jumbled group, you and the lady make your way to your horse.
 
-- 🏇 [Unleash the horse and go!](./scene11A.md)
+- 🏇 [Unleash the horse and go!](./scene11.md)
 
