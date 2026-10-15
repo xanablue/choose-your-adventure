@@ -1,18 +1,12 @@
 
-# 🌵 Scene 1: The Desert World
+# 🐎 Scene 1:  A bounty collector’s journey
 
-You are a restless teen living on a dry, isolated planet, helping your aunt and uncle run a moisture farm. You've always dreamed of more — of flying, of fighting, of being something greater.
+You stumble out of the saloon and a wanted poster suddenly catches your eye. 
 
-Today, while cleaning a dusty old helper droid, you stumble on a hidden recording…
-
-> 💬 “Help me, wise traveler… you’re my only hope…”
+A bounty of $250,000 suddenly gets you interested.
 
 What do you do?
 
-- 🛠️ [Play the full message and try to find out who the woman is](./scene2A.md)
+- 🔍 [Inspect the poster closer](./scene2A.md)
 
-- 🙈 [Ignore it — probably just a glitch](./scene2B.md)
-
-- 🧓 [Tell your uncle — maybe he’ll know what to do](./scene2C.md)
-
-
+- 🙈 [Ignore it, it’s too much of a hassle](./scene2B.md)
