@@ -1,5 +1,5 @@
 
-# 🍳 Scene 4B: A nice start to your day
+# 🍳 Scene 4B: A Nice Start to Your Day
 
 You walk into the saloon, everyone’s eyes are on you.
 

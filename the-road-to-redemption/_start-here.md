@@ -1,7 +1,7 @@
 
 # 🐴 The Road to Redemption
 
-## A simple bounty
+## A Simple Bounty
 
 >Life in the Old West is never easy.
 
@@ -15,4 +15,4 @@ You think to yourself as you finish your 4th shot of whiskey.
 
 Late in the night you decide to get up.
 
-- 🐎 [Begin your journey](./scene1.md)
+- 🐎 [Begin Your Journey](./scene1.md)

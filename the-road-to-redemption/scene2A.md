@@ -9,6 +9,6 @@ That familiar smile, eyes and nose, you know it from somewhere…
 
 What now?
 
-- 🏜️ [Run and Hide](./scene3A.md)
+- 🏜️ [Run and hide.](./scene3A.md)
 
-- 🤫 [Stay hidden at a hotel](./scene3B.md)
+- 🤫 [Stay hidden at a hotel.](./scene3B.md)

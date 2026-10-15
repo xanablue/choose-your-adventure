@@ -3,11 +3,11 @@
 
 You approach two long doors, it takes about two guards to open the door. 
 
-As you enter, a long narrow hallway faces you, with guards on the sides and a King sitting at the end. 
+As you enter, a long narrow hallway faces you, with guards on the sides and a king sitting at the end. 
 
-He shows you that same bounty poster you were looking at early. Your face is on it. 
+He shows you that same bounty poster you were looking at earlier. Your face is on it. 
 
-He offers a proposal, you do a mission to rescue a Princess or he takes your bounty.
+He offers a proposal, you do a mission to rescue the princess or he takes your bounty.
 
 > “What do you do?”
 

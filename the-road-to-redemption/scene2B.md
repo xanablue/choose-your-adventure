@@ -7,6 +7,6 @@ After a night at the saloon you feel drowsy, you need to figure out where you ar
 
 Where do you go for the night?
 
-- 💤 [Find a hotel to rest](./scene3B.md)
+- 💤 [Find a hotel to rest.](./scene3B.md)
 
 - 🐎 [Ride to the next town over.](./scene3C.md)

@@ -1,5 +1,5 @@
 
-# 🏜️ Scene 3A: An endless Journey
+# 🏜️ Scene 3A: An Endless Journey
 
 After riding your horse for a while you see a small shadow further up.
 
@@ -9,6 +9,6 @@ The dust starts the set and the sun shines in with birds chirping around you.
 
 What now?
 
-- 🚪 [Approach the entrance, maybe you can hide](./scene4A.md)
+- 🚪 [Approach the entrance, maybe you can hide.](./scene4A.md)
 
-- 🐎 [Go around it, you’re on the run](./scene4C.md)
+- 🐎 [Go around it, you’re on the run.](./scene4C.md)

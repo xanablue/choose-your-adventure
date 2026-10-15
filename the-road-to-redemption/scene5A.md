@@ -3,10 +3,10 @@
 
 The guards bring you inside their kingdom.
 
- A suffocating crowd surrounds you. 
+A suffocating crowd surrounds you. 
  
- Eyes stare like they’re judging your clothes. 
+Eyes stare like they’re judging your clothes. 
 
-- 💂 [Continue Following the Guards](./scene6A.md)
+- 💂 [Continue following the guards.](./scene6A.md)
 
-- 🦶 [Make it a run for it, this doesn’t seem your style](./scene6B.md)
+- 🦶 [Make it a run for it, this doesn’t seem your style.](./scene6B.md)

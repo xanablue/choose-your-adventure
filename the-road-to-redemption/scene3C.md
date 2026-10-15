@@ -7,6 +7,6 @@ However, the ride took the entire night.
  
 Yet, you still feel refreshed for some reason like the universe shifted.
 
-- 🐎 [ Keep moving, something strange is going on.](./scene4C.md)
+- 🐎 [Keep moving, something strange is going on.](./scene4C.md)
 
-- 🍳 [Get some food, you know the saloon offers breakfast](./scene4B.md)
+- 🍳 [Get some food, you know the saloon offers breakfast.](./scene4B.md)

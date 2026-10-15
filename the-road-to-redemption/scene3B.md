@@ -9,7 +9,7 @@ It makes you curious about who took it.
 
 What do you do?
 
-- 🍳 [Get some food, you know the saloon offers breakfast](./scene4B.md)
+- 🍳 [Get some food, you know the saloon offers breakfast.](./scene4B.md)
 
-- 🐎 [ Head West on your horse to the next town](./scene4C.md)
+- 🐎 [Head west on your horse to the next town.](./scene4C.md)
 
