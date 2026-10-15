@@ -1,12 +1,17 @@
 
-# 🚔 Scene 3C: The Authorities
+# 📜 Scene 12C: Turned In
 
-You report the message to the local enforcers. They thank you… then seize the droid. You overhear one mention a bounty from the Dominion.
+After a long journey back to the castle, the princess hops off your horse and rushes inside. The guards bow in respect to her, then quickly stand at guard to you. 
 
-Later that night, your homestead is stormed by black-armored troopers. Your home is in ruins. The message — and your family — are gone.
+Making your way to the king, you stand in front of him and demand your reward. He laughs at you. 
 
-You’ve made a terrible mistake.
+>“You were so foolish as to think that I would let a condemned man walk free? With a large sum of money on your head?”
 
-- 🔥 [Swear vengeance and go into hiding](./scene4F.md)
+Before you know it, the royal guards draw their weapons as you are grabbed from behind, locked in handcuffs, and led down a cobblestone staircase into a prison cell. On your way out, you notice a sense of sadness from the princess to see her aid sentenced to imprisonment. 
 
-- 💼 [Try to join the Dominion as a cadet to learn their secrets](./scene4G.md)
+You are thrown into the cell, and hours later, the man who set your bounty arrives - a man you have never seen before. You clamor over your words, trying to explain there must be a misunderstanding. Nonetheless, the man seems pleased at your capture as you are handed over to him by the king who receives the $250,000 reward. 
+
+What will await you in your future? Nothing good, that is for sure.<br><br>
+
+## Bad End: Turned In
+- ↩️ [Restart your adventure?](./_start-here.md)

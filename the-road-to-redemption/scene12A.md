@@ -1,16 +1,13 @@
 
-# 🏜️ Scene 3A: The Canyon Hermit
+# 👑 Scene 12A: Royalty
 
-You sneak away under the twin suns and head into the rocky canyonlands. After hours of walking, a hooded figure steps from the shadows.
+Upon your safe arrival to the castle, the princess approaches the tall front doors. The guards bow down to her but give you a wary look. The king warmly embraces his daughter, expressing relief at her return to home. 
 
-> “You’ve come a long way, traveler… I am Old Ken.”
+She kindly requests her father that you be taken in as royalty. The king is hesitant to accept but wishes to appease his daughter. He agrees and you become a royal guard. 
 
-He listens to your story, then shows you a hidden device — a glowing blade of energy once wielded by defenders of peace.
+After years of serving under the king, you gain his trust and become closer to the princess. It turns out, the two of you make a great pair. She requests your hand in marriage, and you happily agree. 
 
-> “This was your father's. The Dominion hunted our kind. But the spark lives on… in you.”
+Once a man escaping from a bounty, and now the King of the Land, your choices have certainly suited you well.<br><br>
 
-What now?
-
-- ⚔️ [Train with Old Ken and learn the ways of the spark](./scene4A.md)
-
-- 🏃 [This is too much — run back home before things get worse](./scene4B.md)
+## Good End: Royalty
+- ↩️ [Restart your adventure?](./_start-here.md)

@@ -1,14 +1,11 @@
 
-# 🤝 Scene 3B: Bring a Friend
+# 🗺️ Scene 12B: Wanderers
 
-You convince your best friend — a wisecracking pilot-in-training — to sneak out with you. Together, you head toward the canyon in search of the mysterious *Old Ken*.
+You agree to the princess’s suggestion, but tell her that you do not wish to return to the castle due to your bounty and distrust of the king and head into town. The princess is conflicted -- she looks forward to the adventure that awaits her but will miss her home. The two of you find a lodge to safely spend the night in. 
 
-Along the way, you're ambushed by cloaked scavengers! They surround you with stun rods.
+Years pass with you on the run and while you find yourself having fun going on adventures with the girl, moving from town to town, there is a looming sense of danger. The princess regrets worrying her father, as she has become a missing person, and at any point, you may be accused of kidnapping and executed by the royal guards. 
 
-What do you do?
+You and the princess have successful adventures and gather an impressive hoard of wealth, but you may never know peace from the anxious thoughts of capture in your future.<br><br>
 
-- 💥 [Try to fight your way out](./scene4C.md)
-
-- 📣 [Call out for help — maybe Old Ken is nearby](./scene4D.md)
-
-- 🕳️ [Use the rocks to slip away and regroup](./scene4E.md)
+## Neutral End: Wanderers
+- ↩️ [Restart your adventure?](./_start-here.md)
