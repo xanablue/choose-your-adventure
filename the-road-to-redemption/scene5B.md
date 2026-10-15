@@ -1,10 +1,10 @@
 
-# 🧘 Scene 5B: Training Delay
+# 🧘 Scene 5B: Crash
 
-You ask Old Ken for more time to train. He agrees, but warns: “The Spark grows stronger in action.”
+As you’re eating, a strange group barges into the saloon. Covered in shining armor and sharp swords long enough to match an arm’s length. 
 
-That night, he receives word: the cloaked woman has been captured. The Dominion’s battle station is on the move — and it’s heading for her homeworld.
+They walk towards you and ask you to come with them. Surely, you know what it’s about.
 
-You can’t wait any longer.
+- 🤝 [Join them](./scene6A.md)
 
-- 🛩️ [Find a pilot and flee the planet with Ken](./scene5A.md)
+- ❌ [Deny to come with them](./scene6B.md)
