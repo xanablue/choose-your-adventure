@@ -1,16 +1,12 @@
 
-# 🏃 Scene 4B: Second Thoughts
+# 🍳 Scene 4B: A nice start to your day
 
-You panic and bolt from Old Ken’s cave, running until your lungs burn. But when you return home… it’s too late.
+You walk into the saloon, everyone’s eyes are on you.
 
-Troopers in white armor have razed the farm. Your family is gone. The droid, missing.
+The air feels tense as you can see the eyes focused on the back of your head.
+ 
+You sit down and order some thick-cut salt pork.
 
-You fall to your knees. This wasn’t just some message — this was war.
+- 🥄 [Continue eating, you deserve it](./scene5B.md)
 
-Old Ken appears behind you.
-
-> “There’s no going back. But there is a path forward.”
-
-- 💥 [Join Old Ken and fight for the rebellion](./scene5A.md)
-
-- 🛩️ [Steal a local speeder and try to escape the planet](./scene5C.md)
+- 🦶 [Dine and dash, you clearly aren’t welcomed](./scene5C.md)
