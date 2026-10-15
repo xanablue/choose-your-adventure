@@ -1,8 +1,15 @@
 
-# 💥 Ending: Failure
+# 🔒 Scene 10A: Captured
 
-You rely on the computer — but the shot misses. Dominion fighters close in. Your ship is destroyed in a flash of light.
+You drop your weapon and put your hands up. You carefully explain that you were sent by the King and try to convince the leader that if he takes your life, the King will send forth his whole force. The man with the big hat and gun sneers as he remarks, 
+<br>
 
-Without your spark, the rebellion fades into silence.
+> “Ah, I’ve seen your face before. Another life with a price.”
 
-> ☠️ Sometimes, courage isn’t enough.
+You notice the princess rolling her eyes. What you didn’t notice was his cronies sneaking up the staircase behind you. Your hands are tied behind your back and you are thrown into the cell. A cracked bowl filled with moldy gruel is tossed your way as your meal for the night. 
+<br><br>
+How long will you wait for your own rescue? Will you ever see the light of day again?
+<br><br> 
+## Bad End: Captured
+- ↩️ [Restart your adventure?](./_start-here.md)
+

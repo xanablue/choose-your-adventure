@@ -1,10 +1,11 @@
 
-# 🎉 Ending: A New Spark
+# 🏃 Scene 10B: The Escape
 
-You fire — and the shot lands true. A chain reaction erupts inside the station. You pull away just in time.
+You must leave and make it quick. 
 
-The battle station explodes in a brilliant blaze of light. The Dominion has lost its ultimate weapon.
+You dash towards the outlaws’ leader, who fires at you and narrowly misses. Grasping at his hands, you manage to wrestle his gun away and point it towards the lock on the prison cell. The princess briskly moves herself out of the way and you manage to shoot the lock clean off. 
 
-Back at base, the rebels cheer. The cloaked woman smiles. The Spark is alive… and the fight has only begun.
+Taking the princess’s hand, you hold the gun out in front of you as you lead her back down the staircase. The cronies drop their weapons at the sight of the gun, making an easy escape for you and the young lady.
 
-> ⭐ You’ve sparked a rebellion.
+- 🏇 [Rush to your horse!](./scene11A.md)
+

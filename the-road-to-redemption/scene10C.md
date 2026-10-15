@@ -1,10 +1,15 @@
 
-# 🎉 Ending: A New Spark
+# 🍀 Scene 10C: Sheer Luck
 
-You fire — and the shot lands true. A chain reaction erupts inside the station. You pull away just in time.
+You draw your sword and prepare for battle. The outlaw leader steadies his aim and… 
 
-The battle station explodes in a brilliant blaze of light. The Dominion has lost its ultimate weapon.
+>*click click click*
 
-Back at base, the rebels cheer. The cloaked woman smiles. The Spark is alive… and the fight has only begun.
+He is out of bullets. 
 
-> ⭐ You’ve sparked a rebellion.
+You must waste no time as he curses to himself. Heading for the prison cell, you take hold of the lock -- but wait, the cell isn’t locked at all! You swing the lock off, open the door, and grab the princess’s hand. 
+
+The staircase becomes full with cronies. Taking advantage of your height, you use your sword to push the enemies back down the stairs, who topple each other down onto the ground. Sneaking past the jumbled group, you and the lady make your way to your horse.
+
+- 🏇 [Unleash the horse and go!](./scene11A.md)
+
