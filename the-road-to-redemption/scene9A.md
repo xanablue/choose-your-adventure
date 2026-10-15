@@ -1,16 +1,12 @@
 
-# 🛩️ Scene 9A: The Final Run
+# 👸 Scene 9A: The Princess
 
-The battle station looms ahead, surrounded by turrets and fighters. One by one, rebel pilots fall — but you keep flying.
+As you climb up the staircase, you begin to hear ever so faint sobbing. Compelled by the noise, you make your way to the top and observe the top level of the fort. 
 
-You close in on the exhaust port. Your targeting computer flickers.
+Your eyes are drawn to a big rusted prison cell that a woman resembling a princess is locked behind, stubbornly wiping away her tears. Less noticeable is a man in a cowboy hat sitting in a nearly-broken chair, beginning to draw a gun at the sight of your presence.
 
-Old Ken’s voice echoes in your mind:
+- 💬 [Talk it out.](./scene10A.md)
 
-> “Use the Spark, trust your feeling.”
+- ⚔️ [Battle!](./scene10C.md)
 
-Do you…
-
-- 🧮 [Rely on the targeting computer](./scene10A.md)
-
-- 🎯 [Take the shot using the Spark](./scene10B.md)
+- 🏃 [Grab the princess and run!](./scene10B.md)

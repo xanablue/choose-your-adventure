@@ -1,16 +1,9 @@
 
-# 🛩️ Scene 9A: The Final Run
+# ☠️ Scene 9C: Slain
 
-The battle station looms ahead, surrounded by turrets and fighters. One by one, rebel pilots fall — but you keep flying.
+You decide to take a look around the front of the fort. As a heavily guarded area, a group of angered outlaws soon take note of your presence. Worn down from the journey that led you to this grimy, broken-down fort, you fail to defend yourself in battle. 
 
-You close in on the exhaust port. Your targeting computer flickers.
-
-Old Ken’s voice echoes in your mind:
-
-> “Use the Spark, trust your feeling.”
-
-Do you…
-
-- 🧮 [Rely on the targeting computer](./scene10A.md)
-
-- 🎯 [Take the shot using the Spark](./scene10B.md)
+You are downed, and eventually, slain by the outlaws. They take your loot, laughing as they celebrate their new gains.
+<br><br> 
+## Bad End: Slain
+- ↩️ [Restart your adventure?](./_start-here.md)

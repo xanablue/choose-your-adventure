@@ -1,16 +1,12 @@
 
-# 🛩️ Scene 9A: The Final Run
+# 💎 Scene 9B: Close Call
 
-The battle station looms ahead, surrounded by turrets and fighters. One by one, rebel pilots fall — but you keep flying.
+Looking around the back of the fort, you notice a heaping pile of sparkling gems but sense the presence of guards nearby. You sneak away a handful of gems, then conclude that it is best to not get greedy. 
 
-You close in on the exhaust port. Your targeting computer flickers.
+Taking note of a nearby staircase, you opt to head up instead where perhaps it is safer. Upon reaching the top, you notice a woman resembling a princess locked up behind rusty iron bars, and a man in a cowboy hat, drawing his gun.
 
-Old Ken’s voice echoes in your mind:
+- 🏃 [Take the girl and leave!](./scene10B.md)
 
-> “Use the Spark, trust your feeling.”
+- ⚔️ [Draw!](./scene10C.md)
 
-Do you…
-
-- 🧮 [Rely on the targeting computer](./scene10A.md)
-
-- 🎯 [Take the shot using the Spark](./scene10B.md)
+- 💬 [Beg for your life.](./scene10A.md)
