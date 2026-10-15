@@ -1,14 +1,15 @@
 
-# 🤝 Scene 3B: Bring a Friend
+# 🤫 Scene 3B: Hotel Rest
 
-You convince your best friend — a wisecracking pilot-in-training — to sneak out with you. Together, you head toward the canyon in search of the mysterious *Old Ken*.
+You wake up hungover, the sun shines on your face seeming unusually different.
 
-Along the way, you're ambushed by cloaked scavengers! They surround you with stun rods.
+From your window, you notice that the bounty poster is gone...
+ 
+It makes you curious about who took it.
 
 What do you do?
 
-- 💥 [Try to fight your way out](./scene4C.md)
+- 🍳 [Get some food, you know the saloon offers breakfast](./scene4B.md)
 
-- 📣 [Call out for help — maybe Old Ken is nearby](./scene4D.md)
+- 🐎 [ Head West on your horse to the next town](./scene4C.md)
 
-- 🕳️ [Use the rocks to slip away and regroup](./scene4E.md)
